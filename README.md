@@ -1,3 +1,5 @@
+# Giphyfy
+
 Giphyfy shows a grid of gifs, it uses MVVM architecture for implementation.
 
 Application uses Hilt, Coroutines, Glide to implement the features.
