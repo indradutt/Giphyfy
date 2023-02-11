@@ -1,5 +1,11 @@
-Giphyfy shows a grid of gifs, it uses MVVM architecture for implementation.
+# Giphyfy
+Displays gifs in a grid format and shows detailed view on selection.
 
-Application uses Hilt, Coroutines, Glide to implement the features.
+### Functional details
+- Grid of gifs
+- Detailed view of gifs
 
-Unit tests are written for view model and repository layers.
+### Non functional details
+- Using MVVM architecture for implementation
+- Using hilt, coroutines, glide
+- Unit tests for view model and respository
